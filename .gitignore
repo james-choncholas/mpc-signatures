@@ -1,0 +1,17 @@
+**.o
+**.a
+!**/lib/*.a
+**.d
+**Session.vim
+**/tags
+**/build
+**/node_modules
+**/geth
+
+
+alice/to-sign.dat
+bob/ECDSA_signature_1.dat
+bob/to-sign.dat
+verify/sig.bin
+verify/sig.hex
+verify/to-ver.dat

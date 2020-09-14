@@ -1,0 +1,16 @@
+{
+  "name": "chain-bridge",
+  "description": "connect chain to python coordinator",
+  "version": "0.0.1",
+  "author": "jc <qwertvert@protonmail.com>",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "@truffle/contract": "^4.1.8",
+    "node-fetch": "^2.6.0",
+    "web3": "^1.2.6",
+    "yargs": "^15.1.0"
+  },
+  "license": "MIT"
+}

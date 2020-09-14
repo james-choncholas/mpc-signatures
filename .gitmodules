@@ -1,0 +1,3 @@
+[submodule "blockchain-crypto-mpc"]
+	path = blockchain-crypto-mpc
+	url = ../blockchain-crypto-mpc.git
